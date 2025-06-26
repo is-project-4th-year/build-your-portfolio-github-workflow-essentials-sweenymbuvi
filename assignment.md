@@ -89,3 +89,9 @@
 
 ---
 
+### E. Merge Conflict Resolution
+
+![Merge Conflict](screenshots/conflict.png)  
+*Screenshot of a resolved merge conflict from my IDE.*
+
+---
