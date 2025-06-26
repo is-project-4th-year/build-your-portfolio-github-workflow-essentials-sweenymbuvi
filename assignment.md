@@ -11,8 +11,8 @@
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL**:  
- TO BE ADDED
+- **GitHub Pages URL**:** https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-sweenymbuvi/
+ 
 ---
 
 ## 3. Learnings from the Git Crash Program
@@ -78,14 +78,14 @@
 ### C. Branching
 
 ![Branch List](screenshots/branches.png)  
-*List of branches used in development (e.g., feature/home, feature/about).*
+*List of branches used in development.*
 
 ---
 
 ### D. Pull Requests
 
 ![Pull Request](screenshots/request.png)  
-*A pull request linked to a specific issue and merged into main.*
+*A pull request linked to a specific issue.*
 
 ---
 
